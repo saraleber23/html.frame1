@@ -26,6 +26,22 @@ p {
 }
 
 img {
+width: 600px;
+height: 600px;
+display: block; 
+margin-left: auto; 
+margin-right: auto;
+}
+
+.figcaption {
 text-align: center;
-size
+
+}
+
+footer {
+text-align: center;
+background-color: black;
+color: white;
+height: 75;
+
 }
