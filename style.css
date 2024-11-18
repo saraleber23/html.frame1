@@ -47,18 +47,18 @@ height: 75;
 }
 
 .sidebar {
-    width: 300px;                /* Set a fixed width for the sidebar */
-  background-color: #333;      /* Dark background for the sidebar */
-  color: white;                /* White text color */
-  padding: 20px;               /* Padding inside the sidebar */
-  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); /* Shadow for a nice effect */
+    width: 300px;                
+  background-color: #333;      
+  color: white;                
+  padding: 20px;               
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2); 
   border-radius: 8px; 
 
 }
 
 .sidebar-content {
     display: flex;
-  flex-direction: column;      /* Arrange the content vertically */
+  flex-direction: column;      
   gap: 15px; 
   }
 
@@ -71,4 +71,8 @@ height: 75;
     margin: 20px 0; 
     font-size: 1.2em; 
     line-height: 1.5; 
+}
+
+.chapterheadline {
+    color: red;
 }
