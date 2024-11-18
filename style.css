@@ -2,14 +2,14 @@
     font-size:3em;
     font-weight:700;
     text-align: center;
-    font-family:"Montserrat", sans-serif;
+    font-family: Arial, sans-serif;
     color: red;
 }
 
 .byline{
     font-size: 1em;
     text-transform:uppercase;
-    font-family:"Montserrat", sans-serif;
+    font-family: 'Times New Roman', serif ;
     text-align: center; 
 }
 
@@ -21,7 +21,7 @@ p {
 
 .chapterheadline {
     text-align: left;
-    font-family:"Montserrat", sans-serif;
+    font-family: Arial, sans-serif;
     font-weight:700;
     font-size:2em;
 }
