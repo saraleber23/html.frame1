@@ -47,14 +47,15 @@ height: 75;
 }
 
 .sidebar {
-    width: 300px;
-    background-color: #eef5f9;
-    padding: 20px;
-    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-    border-right: 2px solid #d1e3ed;
-    display: flex; /* Use flexbox for side-by-side layout */
-    align-items: flex-start; /* Align items at the top */
-    gap: 20px; /* Add space between the sidebar and main content */
+    width: 250px;  /* Adjust the width as per your design */
+  height: 100%;  /* Sidebar height takes full screen height */
+  background-color: #f4f4f4;  /* Adjust the background color */
+  position: fixed;  /* Fixed sidebar */
+  top: 0;  /* Align to the top of the screen */
+  left: 0;  /* Align to the left */
+  display: flex;
+  justify-content: center;  /* This will center content inside the sidebar */
+  align-items: center;  /* Center content vertically */
 
 }
 
