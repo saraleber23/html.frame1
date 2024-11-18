@@ -52,6 +52,9 @@ height: 75;
     padding: 20px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
     border-right: 2px solid #d1e3ed;
+    display: flex; /* Use flexbox for side-by-side layout */
+    align-items: flex-start; /* Align items at the top */
+    gap: 20px; /* Add space between the sidebar and main content */
 }
 
 .pullquote {
