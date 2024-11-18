@@ -55,10 +55,7 @@ height: 75;
     display: flex; /* Use flexbox for side-by-side layout */
     align-items: flex-start; /* Align items at the top */
     gap: 20px; /* Add space between the sidebar and main content */
-    height: 100vh;
-position: fixed;
-background-color: var(--bg-primary);
-float: left;
+
 }
 
 .pullquote {
