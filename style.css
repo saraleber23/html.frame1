@@ -54,7 +54,7 @@ height: 75;
     border-right: 2px solid #d1e3ed;
 }
 
-#pullquote {
+.pullquote {
     color: red; 
     font-style: italic; 
     font-family: 'Georgia', 'Times New Roman', serif; 
