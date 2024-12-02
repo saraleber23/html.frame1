@@ -29,6 +29,7 @@ p {
 img {
 width: 1400px;
 height: 1000px;
+display: block;
 margin: auto; 
 
 }
