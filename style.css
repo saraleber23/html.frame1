@@ -88,6 +88,10 @@ iframe {
     display: inline-block; 
 }
 
+.logo {
+font-size: 3em;
+}
+
   /* Hover  */
   a:hover {
     color: #ff6600;  
@@ -98,6 +102,7 @@ iframe {
   a:visited {
     color: #800080;  
   }
+
 
  /*Media Query*/
 
