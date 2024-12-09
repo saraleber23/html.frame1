@@ -84,6 +84,10 @@ a {
     text-decoration: none;  
   }
 
+iframe {
+    display: inline-block; /* Ensures it's treated as a block-like element */
+}
+
   /* Hover  */
   a:hover {
     color: #ff6600;  
