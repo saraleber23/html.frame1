@@ -84,10 +84,6 @@ a {
     text-decoration: none;  
   }
 
-  iframe {
-    align-items: center;
-  }
-  
   /* Hover  */
   a:hover {
     color: #ff6600;  
