@@ -93,6 +93,11 @@ font-family: cursive;
 
 }
 
+.video {
+    align-items: center;
+}
+
+
   /* Hover  */
   a:hover {
     color: #ff6600;  
